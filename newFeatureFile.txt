@@ -1,1 +1,2 @@
-this is the brand new feature buddies
+this is the new feature from main
+additional feature from main
